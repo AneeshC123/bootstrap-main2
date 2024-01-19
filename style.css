@@ -1,0 +1,55 @@
+ul{
+    margin-left: 5px;
+}
+#input{
+    margin-top: 3px;
+    width: 28rem;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    background-color:rgb(246, 244, 244);
+    border-radius: 10px;
+    
+}
+#image{
+    margin-bottom: 10px;
+}
+#input:hover{
+    background-color:rgb(230, 230, 226);
+}
+.content{
+    border-radius: 6px;
+    background-color: rgb(234, 218, 212);
+    margin: 0;
+    height: 200px;
+
+    
+}
+#service{
+    margin-top: 6px;
+    width: 64px;
+    height: 64px;
+}
+#mainservice{
+    padding: 1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    
+}
+img.d-block{
+    height: 500px;
+}
+.main1{
+  text-align:center ;
+}
+.card:hover{
+    box-shadow: 10px 10px 10px 5px lightslategray;
+
+}
+.bookin{
+    border-radius: 5px;
+}
+#footer{
+}
+
